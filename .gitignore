@@ -1,0 +1,21 @@
+# file types
+*.pth
+*.pkl
+*.pt
+*.out
+*.log
+*.pdf
+
+# images
+*.jpg
+*.png
+
+# dirs
+test/
+tests/
+data/
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.idea/
+**/.virtual_documents/
+**/.vscode/

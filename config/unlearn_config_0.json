@@ -1,0 +1,8 @@
+{
+    "after_task_id": 0,
+    "unlearn_content": {
+        "client_num": 1,
+        "unlearn_all": false,
+        "unlearn_classes_num": 1
+    }
+}
